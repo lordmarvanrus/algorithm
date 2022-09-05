@@ -1,2 +1,4 @@
-package homework;public class StringListImpl {
+package homework;
+
+public class StringListImpl {
 }

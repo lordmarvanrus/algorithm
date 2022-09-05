@@ -1,2 +1,4 @@
-package homework;public interface StringList {
+package homework;
+
+public interface StringList {
 }
